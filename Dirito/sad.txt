@@ -1,0 +1,11 @@
+
+
+- SMB -     SUBDOMAIN 
+
+SCHOLZ -> Scanner 
+SCHOLZ -> FAST SCAN -> multi-threading python or C ? 
+	 
+	  TCP SCAN
+	  UDP SCAN
+
+

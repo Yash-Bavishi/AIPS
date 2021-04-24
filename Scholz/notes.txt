@@ -1,0 +1,6 @@
+# Notes
+
+1) Subprocessing or Threading
+2) Total Number of ports: 65535
+3) Subprocess unique GIL for each process
+4) 1 by 1 execution but can decided the flow of program

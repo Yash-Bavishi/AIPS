@@ -1,0 +1,6 @@
+done
+80
+80 Port is open
+631 Port is open
+56006 Port is open
+52538 Port is open
