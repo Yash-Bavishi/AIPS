@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="353.0" prefWidth="656.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Page3Controller">
+   <children>
+      <Text layoutX="299.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Scholz">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Text>
+      <Text layoutX="60.0" layoutY="98.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Method">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Button layoutX="50.0" layoutY="138.0" mnemonicParsing="false" onAction="#FastScan" prefHeight="46.0" prefWidth="150.0" style="-fx-background-color: #331800; -fx-font-family: Verdana;" text="FastScan" textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="253.0" layoutY="138.0" mnemonicParsing="false" onAction="#TCP" prefHeight="46.0" prefWidth="150.0" style="-fx-background-color: #331800; -fx-font-family: Verdana;" text="TCP" textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button layoutX="455.0" layoutY="138.0" mnemonicParsing="false" onAction="#UDP" prefHeight="46.0" prefWidth="150.0" style="-fx-background-color: #331800; -fx-font-family: Verdana;" text="UDP" textFill="WHITE">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
